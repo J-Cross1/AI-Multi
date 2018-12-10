@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\j-cro\onedrive\documents\uni year 2\ai\multilayer\multilayer\main.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\j-cro\onedrive\documents\uni year 2\ai\multilayer\multilayer\main.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  multilayer.vcxproj -> C:\Users\J-Cro\OneDrive\Documents\Uni Year 2\AI\multilayer\Debug\multilayer.exe
